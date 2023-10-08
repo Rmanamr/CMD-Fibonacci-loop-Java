@@ -1,4 +1,4 @@
-# CMDP-Fibonacci-loop-Java V 1.0 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)   
+# CMD-Fibonacci-loop-Java V 1.0 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)   
 Java CMD progtam for printing Fibonacci series from 0 to input value(number_Of_Series) with a for loop.   
 using Java version 1.8.0  
 
