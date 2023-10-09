@@ -3,14 +3,14 @@ Java CMD progtam for printing Fibonacci series from 0 to input value(number_Of_S
 using Java version 1.8.0  
 
 Run the program typing :  
-"javac CMD_Fibonacci_loop.java"  
+"javac CMD_Fibonacci_Loop.java"  
 then   
-"java CMD_Fibonacci_loop"   
+"java CMD_Fibonacci_Loop"   
 in Windows CMD   
 while CMD is in the CMD-Fibonacci-loop.java directory     
   
 You can see the program document using :    
-"javadoc CMD_Fibonacci_loop.java"   
+"javadoc CMD_Fibonacci_Loop.java"   
  while CMD is in the CMD-Fibonacci-loop.java directory    
   
 Feel free to contact me at:  
