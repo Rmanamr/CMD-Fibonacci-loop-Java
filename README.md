@@ -11,7 +11,7 @@ while CMD is in the CMD-Fibonacci-loop-Java directory
   
 You can see the program document using :    
 "javadoc CMD_Fibonacci_Loop.java"   
- while CMD is in the CMD-Fibonacci-loopJava directory    
+ while CMD is in the CMD-Fibonacci-loop-Java directory    
   
 Feel free to contact me at:  
 @ armanazarnik@gmail.com
