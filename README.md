@@ -2,7 +2,7 @@
 Java CMD program for printing Fibonacci series from 0 to input value(number_Of_Series) with a for loop.   
 using Java version 1.8.0  
 
-Run the program typing :  
+Run the program using :  
 "javac CMD_Fibonacci_Loop.java"  
 then   
 "java CMD_Fibonacci_Loop"   
