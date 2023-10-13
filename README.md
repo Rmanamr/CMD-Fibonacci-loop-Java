@@ -1,5 +1,5 @@
 # CMD-Fibonacci-loop-Java V 1.0 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)   
-Java CMD progtam for printing Fibonacci series from 0 to input value(number_Of_Series) with a for loop.   
+Java CMD program for printing Fibonacci series from 0 to input value(number_Of_Series) with a for loop.   
 using Java version 1.8.0  
 
 Run the program typing :  
@@ -7,11 +7,11 @@ Run the program typing :
 then   
 "java CMD_Fibonacci_Loop"   
 in Windows CMD   
-while CMD is in the CMD-Fibonacci-loop.java directory     
+while CMD is in the CMD-Fibonacci-loop-Java directory     
   
 You can see the program document using :    
 "javadoc CMD_Fibonacci_Loop.java"   
- while CMD is in the CMD-Fibonacci-loop.java directory    
+ while CMD is in the CMD-Fibonacci-loopJava directory    
   
 Feel free to contact me at:  
 @ armanazarnik@gmail.com
